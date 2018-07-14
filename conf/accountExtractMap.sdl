@@ -1,7 +1,9 @@
-# Account Extract Map
-Id=Id
-Name=Name
-Type=Type
-RecordTypeId=RecordTypeId
-ParentId=ParentId
-
+SBQQ__CustomSource__c
+SBQQ__FontFamily__c
+SBQQ__FontSize__c
+SBQQ__Markup__c
+SBQQ__RawMarkup__c
+SBQQ__TableStyle__c
+SBQQ__TextColor__c
+SBQQ__Type__c
+External_Id__c

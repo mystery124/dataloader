@@ -1,0 +1,765 @@
+"ID","SBQQ__CUSTOMSOURCE__C","SBQQ__FONTFAMILY__C","SBQQ__FONTSIZE__C","SBQQ__MARKUP__C","SBQQ__RAWMARKUP__C","SBQQ__TABLESTYLE__C","SBQQ__TEXTCOLOR__C","SBQQ__TYPE__C","EXTERNAL_ID__C"
+"a126E000000z2AKQAY","","","","","<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:64%;"">
+			<p><span style=""font-size: 16px;"">VOLVO SERVICES AGREEMENT</span></p>
+
+			<p><span style=""font-size: 14px;"">QUOTATION</span></p>
+
+			<p><span style=""font-size: 8px;"">Contract number:</span></p>
+			</td>
+			<td style=""width:20%;"">
+			<p>&#160;</p>
+
+			<p>&#160;</p>
+
+			<p>&#160;</p>
+
+			<p>&#160;</p>
+
+			<p><span style=""font-size: 8px; text-align: right;"">Serial number:</span></p>
+			</td>
+			<td style=""width:16%;""><img src=""https://cs85.salesforce.com/servlet/servlet.ImageServer?id={!template.SBQQ__LogoDocumentId__c}&amp;oid=00D6E00000090BU"" width=""70px"" /></td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","2"
+"a126E000000z28PQAQ","","","","","<table>
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 40px;"">VOLVO SERVICES AGREEMENT</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style=""border-bottom: 2px solid rgb(0, 0, 0); width:100%"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 14px;"">QUOTATION</span></p>
+
+			<p><span style=""font-size: 8px;"">Contract number:</span></p>
+
+			<p>&#160;</p>
+			</td>
+			<td>
+			<p><span style=""font-size: 8px; text-align: right;"">Serial number:</span></p>
+
+			<p>&#160;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","3"
+"a126E000000z2BZQAY","","","","","<p><span style=""font-size: 25px;"">&#160;</span></p>
+
+<p><span style=""font-size: 20px;"">&#160;</span></p>
+
+<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""border-top: 1px solid rgb(0, 0, 0); width:40%;"">
+			<p><span style=""font-size: 10px; color: rgb(128, 128, 128);"">LOCATION, DATE</span></p>
+
+			<p><span style=""font-size: 40px;"">&#160;</span></p>
+			</td>
+			<td style=""width:20%;"">
+			<p><span style=""font-size: 10px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 40px;"">&#160;</span></p>
+			</td>
+			<td style=""width:40%;"">
+			<p>&#160;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""border-top: 1px solid rgb(0, 0, 0); width:40%;"">
+			<p><span style=""font-size: 10px; color: rgb(128, 128, 128);"">CUSTOMER&#39;S SIGNATURE</span></p>
+			</td>
+			<td style=""width:20%;"">
+			<p><span style=""font-size: 10px;"">&#160;</span></p>
+			</td>
+			<td style=""width:40%;"">
+			<p>&#160;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","4"
+"a126E000000z2IIQAY","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 20px;"">DETAILED PRICE VIEW</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","5"
+"a126E000000z2IaQAI","","","","","<p><span style=""font-size: 25px;"">&#160;</span></p>
+
+<p><span style=""font-size: 20px;"">&#160;</span></p>
+
+<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:40%;"">
+			<p><span style=""font-size: 11px"">Prices approved,</span></p>
+
+			<p><span style=""font-size: 10px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 40px;"">&#160;</span></p>
+			</td>
+			<td style=""width:60%;"">
+			<p><span style=""font-size: 10px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 40px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""border-top: 1px solid rgb(0, 0, 0); width:40%;"">
+			<p><span style=""font-size: 10px; color: rgb(128, 128, 128);"">LOCATION, DATE</span></p>
+
+			<p><span style=""font-size: 40px;"">&#160;</span></p>
+			</td>
+			<td style=""width:60%;"">
+			<p><span style=""font-size: 10px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 40px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""border-top: 1px solid rgb(0, 0, 0); width:40%;"">
+			<p><span style=""font-size: 10px; color: rgb(128, 128, 128);"">Name Sales Manager</span></p>
+			</td>
+			<td style=""width:60%;"">
+			<p><span style=""font-size: 10px;"">&#160;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","6"
+"a126E000000z2HdQAI","","","","","<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:84%;"">
+			<p><span style=""font-size: 19px;"">VOLVO SERVICES AGREEMENT</span></p>
+
+			<p><span style=""font-size: 14px;"">INTERNAL</span></p>
+
+			<table width=""80%"">
+				<tbody>
+					<tr>
+						<td style=""width:66%;"">
+						<p><span style=""font-size: 8px;"">Contract number:</span></p>
+
+						<p>&#160;</p>
+						</td>
+						<td style=""width:24%;"">
+						<p><span style=""font-size: 8px;"">Serial number:</span></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td style=""width:16%;""><img src=""https://cs85.salesforce.com/servlet/servlet.ImageServer?id={!template.SBQQ__LogoDocumentId__c}&amp;oid=00D6E00000090BU"" width=""70px"" /></td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","7"
+"a126E000000z2I0QAI","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 20px;"">QUOTATION DETAILS</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table width=""100%"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">Customer reference:</span></p>
+
+			<p><span style=""font-size: 11px;"">Machine model:</span></p>
+
+			<p><span style=""font-size: 11px;"">Serial number:</span></p>
+
+			<p><span style=""font-size: 11px;"">Quotation number:</span></p>
+
+			<p><span style=""font-size: 11px;"">Quotation date:</span></p>
+
+			<p><span style=""font-size: 11px;"">Quotation expiry date:</span></p>
+
+			<p><span style=""font-size: 11px;"">Annual operating hours:</span></p>
+
+			<p><span style=""font-size: 11px;"">Travel:</span></p>
+
+			<p><span style=""font-size: 11px;"">Contract start date:</span></p>
+
+			<p><span style=""font-size: 11px;"">Contract end date:</span></p>
+
+			<p><span style=""font-size: 11px;"">Contract duration (hours):</span></p>
+
+			<p><span style=""font-size: 11px;"">Initial operating hours:</span></p>
+
+			<p><span style=""font-size: 11px;"">Contract end machine operating hours:</span></p>
+
+			<p><span style=""font-size: 11px;"">Open-ended agreement:</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","8"
+"a126E000000z3q4QAA","","","","","<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:80%;"">
+			<p><img src=""{!quote.Dealer_Image_Link__c}"" width=""70px"" /></p>
+			<!-- <p><img src=""https://cs85.salesforce.com/servlet/servlet.ImageServer?id={!quote.Dealer_Image_Link__c}&amp;oid=00D6E00000090BU"" width=""70px"" align=""left"" /></p>  --></td>
+			<td style=""width:20%;""><!-- <p><img src=""{!quote.Product_Image_Link__c}"" width=""70px"" /></p> -->
+			<p><img align=""right"" src=""https://cs85.salesforce.com/servlet/servlet.ImageServer?id={!quote.Product_Image_Link__c}&amp;oid=00D6E00000090BU"" width=""70px"" /></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","9"
+"a126E000000yuy9QAA","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 20px;"">QUOTATION DETAILS</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Customer reference:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Contract start date:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Machine model:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Contract end date:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Serial number:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Contract duration (hours):</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Quotation number:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Initial operating hours:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Quotation date:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Contract end machine operating hours:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Quotation expiry date:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Open-ended agreement:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Annual operating hours:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p>&#160;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Travel:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p>&#160;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","10"
+"a126E000000zANTQA2","","","","","<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:70%;"">
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+			</td>
+			<td style=""width:30%;"">
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:70%;"">
+			<p><span style=""font-size: 9px; color: rgb(128, 128, 128);"">DEALER</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+			</td>
+			<td style=""width:30%;"">
+			<p><span style=""font-size: 9px; color: rgb(128, 128, 128);"">CUSTOMER</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:70%;"">
+			<p><span style=""font-size: 9px; color: rgb(128, 128, 128);"">DEALER CONTACT</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+			</td>
+			<td style=""width:30%;"">
+			<p><span style=""font-size: 9px; color: rgb(128, 128, 128);"">SERVICE MANAGER</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML",""
+"a126E000000ywlRQAQ","","","","","<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:84%;"">
+			<p>&#160;</p>
+
+			<p>&#160;</p>
+
+			<p>&#160;</p>
+
+			<p>&#160;</p>
+
+			<p><span style=""text-align: right; font-size: 10px;""><b>Volvo Construction Equipment</b></span></p>
+			</td>
+			<td style=""width:16%;""><img src=""https://cs85.salesforce.com/servlet/servlet.ImageServer?id={!template.SBQQ__LogoDocumentId__c}&amp;oid=00D6E00000090BU"" width=""70px"" /></td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","11"
+"a126E000000yuhVQAQ","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 20px;"">MAINTENANCE</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table width=""100%"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px; text-align: justify;"">The services are based on the Volvo Service program performed at the interval defined under section Contract Details and with the prerequisites defined in other sections such as Machine Specification, Conditions of Use, Lubricants and Scheduled Additional Options.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">Dealer visit interval:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">Fluids and Lubricants:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">Mechanic Working Conditions:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">Parts in-between dealer visits:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">No. of dealer visits:</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","12"
+"a126E000000yumxQAA","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 20px;"">REPAIR</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style=""width:100%;"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">Number of repair visits:</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","13"
+"a126E000000yun2QAA","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 20px;"">ADDITIONAL SERVICES</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","14"
+"a126E000000yvLSQAY","","","","","<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:64%;"">
+			<p><span style=""font-size: 16px;"">VOLVO SERVICES AGREEMENT</span></p>
+
+			<p><span style=""font-size: 14px;"">CONTRACT</span></p>
+
+			<p><span style=""font-size: 8px;"">Contract number:</span></p>
+			</td>
+			<td style=""width:20%;"">
+			<p>&#160;</p>
+
+			<p>&#160;</p>
+
+			<p>&#160;</p>
+
+			<p>&#160;</p>
+
+			<p><span style=""font-size: 8px; text-align: right;"">Serial number:</span></p>
+			</td>
+			<td style=""width:16%;""><img src=""https://cs85.salesforce.com/servlet/servlet.ImageServer?id={!template.SBQQ__LogoDocumentId__c}&amp;oid=00D6E00000090BU"" width=""70px"" /></td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","15"
+"a126E000000yuytQAA","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 20px;"">COMMENTS</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","16"
+"a126E000000yuyyQAA","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 20px;"">TERMS &#38; CONDITIONS</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","17"
+"a126E000000ywmEQAQ","","","","","<table>
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 40px;"">VOLVO SERVICES AGREEMENT</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style=""border-bottom: 2px solid rgb(0, 0, 0); width:100%"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 14px;"">CONTRACT</span></p>
+
+			<p><span style=""font-size: 8px;"">Contract number:</span></p>
+
+			<p>&#160;</p>
+			</td>
+			<td>
+			<p><span style=""font-size: 8px; text-align: right;"">Serial number:</span></p>
+
+			<p>&#160;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","18"
+"a126E000000yv2VQAQ","","","","","<p><span style=""font-size: 25px;"">&#160;</span></p>
+
+<p><span style=""font-size: 20px;"">&#160;</span></p>
+
+<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""border-top: 1px solid rgb(0, 0, 0); width:40%;"">
+			<p><span style=""font-size: 10px; color: rgb(128, 128, 128);"">LOCATION, DATE</span></p>
+
+			<p><span style=""font-size: 40px;"">&#160;</span></p>
+			</td>
+			<td style=""width:20%;"">
+			<p><span style=""font-size: 10px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 40px;"">&#160;</span></p>
+			</td>
+			<td style=""border-top: 1px solid rgb(0, 0, 0); width:40%;"">
+			<p><span style=""font-size: 10px; color: rgb(128, 128, 128);"">LOCATION, DATE</span></p>
+
+			<p><span style=""font-size: 40px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""border-top: 1px solid rgb(0, 0, 0); width:40%;"">
+			<p><span style=""font-size: 10px; color: rgb(128, 128, 128);"">DEALER&#39;S SIGNATURE</span></p>
+			</td>
+			<td style=""width:20%;"">
+			<p><span style=""font-size: 10px;"">&#160;</span></p>
+			</td>
+			<td style=""border-top: 1px solid rgb(0, 0, 0); width:40%;"">
+			<p><span style=""font-size: 10px; color: rgb(128, 128, 128);"">CUSTOMER&#39;S SIGNATURE</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","19"
+"a126E000000yuybQAA","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 20px;"">MACHINE DETAILS</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","20"
+"a126E000000yuz3QAA","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 20px;"">PRICE &#38; PAYMENT DETAILS</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">Total contract price:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Price per month:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Price per hour:</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","21"
+"a126E000000ywoQQAQ","","","","","<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:70%;"">
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+			</td>
+			<td style=""width:30%;"">
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:70%;"">
+			<p><span style=""font-size: 9px; color: rgb(128, 128, 128);"">DEALER</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+			</td>
+			<td style=""width:30%;"">
+			<p><span style=""font-size: 9px; color: rgb(128, 128, 128);"">CUSTOMER</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:70%;"">
+			<p><span style=""font-size: 9px; color: rgb(128, 128, 128);"">DEALER CONTACT</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+			</td>
+			<td style=""width:30%;"">
+			<p><span style=""font-size: 9px; color: rgb(128, 128, 128);"">SERVICE MANAGER</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table width=""100%"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 11px;"">Dear ,</span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">thanks you for your interest in our products and services. </span></p>
+
+			<p><span style=""font-size: 12px;"">&#160;</span></p>
+
+			<p><span style=""font-size: 11px;"">This quotation refers to Maintenance and Repair options including the Additional Options described in this document. The services details are described under the concerned section. For contract details please see below. </span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","22"
+"a126E000000yuyEQAQ","","","","","<table style=""width:100%; border-bottom: 2px solid rgb(0, 0, 0);"">
+	<tbody>
+		<tr>
+			<td>
+			<p><span style=""font-size: 20px;"">CONTRACT DETAILS</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table width=""100%"">
+	<tbody>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 15px;"">&#160;</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Customer reference:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Contract start date:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Machine model:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Contract end date:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Serial number:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Contract duration (hours):</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Quotation number:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Initial operating hours:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Quotation date:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Contract end machine operating hours:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Quotation expiry date:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Open-ended agreement:</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Annual operating hours:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p>&#160;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""width:50%;"">
+			<p><span style=""font-size: 11px;"">Travel:</span></p>
+			</td>
+			<td style=""width:50%;"">
+			<p>&#160;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>","Standard","","HTML","23"
